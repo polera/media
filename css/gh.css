@@ -5,3 +5,12 @@ body{
 	font-weight: bold;
 	background-image: url('http://github.com/polera/media/raw/github/img/ghbg.png');
 }
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	text-decoration: underline;
+}
